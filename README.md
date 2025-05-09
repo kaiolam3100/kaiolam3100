@@ -19,4 +19,4 @@
 - **Git**: Advancing version control proficiency, including branching strategies, collaborative workflows (e.g., GitFlow), and conflict resolution
 
 🌐 **Portfolio:** [kaio.dev.br](https://kaio.dev.br)  
-🔗 **LinkedIn:** [linkedin.com/in/kaiolam3100](www.linkedin.com/in/kaiolam3100)
+🔗 **LinkedIn:** linkedin.com/in/kaiolam3100
