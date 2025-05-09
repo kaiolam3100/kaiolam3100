@@ -2,6 +2,11 @@
 
 🚀 Data & Support Analyst | Back-End Developer | Junior AI Automation Enthusiast
 
+🌐 **Portfolio:** [kaio.dev.br](https://kaio.dev.br)  
+🔗 **LinkedIn:** [linkedin.com/in/kaiolam3100](https://www.linkedin.com/in/kaiolam3100)
+
+---
+
 ## 🧠 Technical Skills
 
 - **Python**: Scripting, automation, data processing, and integration tasks
@@ -18,5 +23,3 @@
 - **Kotlin**: Studying modern mobile development practices with a focus on Android and clean architecture principles
 - **Git**: Advancing version control proficiency, including branching strategies, collaborative workflows (e.g., GitFlow), and conflict resolution
 
-🌐 **Portfolio:** [kaio.dev.br](https://kaio.dev.br)  
-🔗 **LinkedIn:** [linkedin.com/in/kaiolam3100](https://www.linkedin.com/in/kaiolam3100)
