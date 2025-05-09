@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Kaio Lourenço!
+# 👋 Hey! I'm Kaio!
 
 🚀 Data & Support Analyst | Back-End Developer | Junior AI Automation Enthusiast
 
