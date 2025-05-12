@@ -2,7 +2,7 @@
 
 🚀 Data & Support Analyst | Back-End Developer | Junior AI Automation Enthusiast
 
-🌐 **Portfolio:** [kaiolam3100.github.io](kaiolam3100.github.io)  
+🌐 **Portfolio:** (kaiolam3100.github.io)  
 🔗 **LinkedIn:** [linkedin.com/in/kaiolam3100](https://www.linkedin.com/in/kaiolam3100)
 
 ---
